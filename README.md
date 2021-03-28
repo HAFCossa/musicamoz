@@ -1,2 +1,2 @@
 # musicamoz
-sistema de venda de musica online
+sistema de venda de musica online com pagamento M-Pesa.
